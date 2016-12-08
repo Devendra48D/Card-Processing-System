@@ -1,0 +1,13 @@
+Add Tom 4111111111111111 $1000
+Add Lisa 5454545454545454 $3000
+Add Quincy 1234567890123456 $2000
+Charge Tom $400
+Charge Tom $500
+Charge Lisa $7
+Add David 79927398713 $2500
+Credit Lisa $100
+Credit Quincy $200
+Charge David $500
+Credit David $700
+Charge David $1000
+Credit Tom $150

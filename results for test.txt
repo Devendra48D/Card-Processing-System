@@ -1,0 +1,4 @@
+David: $800
+Lisa: $-93
+Quincy: error
+Tom: $750
