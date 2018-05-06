@@ -1,17 +1,19 @@
 # Card-Processing-System
 
-Design Decisions
-—————————————————
+##Design Decisions
 I used Python and implemented the database as a dictionary to decrease lookup or query time.
 
 I use a simple if-else structure when reading each command and perform operations on the database as per the instructions provided 
 
 
-Why I chose Python?
+##Algorithm
+Luhn10 Validation for Credit Card Numbers
+
+##Why I chose Python?
 ————————————————————
 I chose Python as the programming language to write this solution because I am most comfortable using Python to solve a problem. 
 
-How to run the code and/or install any dependencies?
+##Instructions: How to run the code and/or install any dependencies?
 ———————————————————————————————————————————————————— 
 1) Install Python 2.7 on your computer. No extra packages or libraries are needed. All the functions and libraries that are used in my program are in Python 2.7.
 2) Go to the folder where this solution is stored through terminal. 
