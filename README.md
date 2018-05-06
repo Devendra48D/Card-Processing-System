@@ -3,7 +3,7 @@
 ##Design Decisions
 I used Python and implemented the database as a dictionary to decrease lookup or query time.
 
-I use a simple if-else structure when reading each command and perform operations on the database as per the instructions provided 
+Use a simple if-else structure to reading each command and perform operations on a database as per the instructions provided 
 
 
 ##Algorithm
